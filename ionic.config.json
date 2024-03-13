@@ -1,0 +1,7 @@
+{
+  "name": "vitalvet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
